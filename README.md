@@ -1,9 +1,10 @@
-# Laboratorio de Turbomáquinas
-## Universidad Central de Venezuela
-## Escuela de Ingeniería Mecánica
+# Turbomáquinas EIM FI UCV
+
+### Universidad Central de Venezuela
+### Escuela de Ingeniería Mecánica
 ### Departamento de Energética
 
-# Turbomáquinas (4741)
+# Laboratorio de Turbomáquinas
 
 `Ultima Actualización: 27.03.23` [changelog](changelog.md)
 
@@ -17,4 +18,4 @@
 ### [Biblioteca de la Asignatura]()
 ### [Contenido Extra](extra.md)
 
-[![Boeing 502-10VC Turboshaft](https://lh3.googleusercontent.com/aqXIfTKkMmBzq71fGRV0hylj8f8hNNwmNSFd9qcMhGuMP3ZtTVlWg3jVIyWMPLZFOwhEOqZOCfVcuHi80Gvhb7-yVeN-slSLNLG8nqW5dhByY7OOO0F0yd2HJivAC8Y9AOGEpaXioQ=w2400)](https://airandspace.si.edu/collection-objects/boeing-t50-bo-8a-502-10vc-turboshaft-engine/nasm_A19740506000)
+[![Boeing 502-10VC Turboshaft](https://lh3.googleusercontent.com/KCpiNqtsi2I6aEkWwagw_Ffk1m5REwTVaN9N8MImWwycRTaR_4OVjAhRyZQmfsbByS0QTNqeQ66sjZleFmkcoTE67bpVYI5pYY7HG7rHnV-j--_aMSRcY0H2nvufPypMSZNsn3RS-Q=w2400)](https://airandspace.si.edu/collection-objects/boeing-t50-bo-8a-502-10vc-turboshaft-engine/nasm_A19740506000)
