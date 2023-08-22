@@ -1,22 +1,12 @@
 # Laboratorio de Turbomáquinas
 
-[Calificaciones Semestre 2023-1](https://docs.google.com/spreadsheets/d/1dHyrDGGiWUF9aYSE62jR7SWiAtSnGyaEmKaNMI_7SwQ/edit?usp=share_link)
-
-[Formato para entrega de Práctica 1](https://docs.google.com/document/d/1gYhGz9Jz_o9-L_e6d9gUFL4t-jTdRnFC/edit?usp=share_link&ouid=100810407302287541575&rtpof=true&sd=true)
-
-[Formato para entrega de Prácticas 2-5](https://docs.google.com/document/d/1jEqshva6qELq1Xc7y1YFCQRg_fc9dqMl/edit?usp=share_link&ouid=100810407302287541575&rtpof=true&sd=true)
-
-[Mínimos Cuadrados - Repaso de Cálculo Numérico](https://drive.google.com/file/d/1E1CEZWLh7dYcm_lLeVU9o2O0N-eZ1-ME/view?usp=share_link)
-
-[Archivos Extras](https://drive.google.com/drive/folders/1kz5qI-tdfK0cHVobLhg5kI7c7FVQ_iZR?usp=share_link)
+[Calificaciones Semestre 2023-2](https://docs.google.com/spreadsheets/d/1A_tEIH4EvSFtf0zYjXV-vOIscANazDsHG9XkNWqZ56Q/edit?usp=sharing)
 
 ## Generalidades
 
 Las Curvas Características deben ser ajustadas empleando Mínimos Cuadrados, esto se puede realizar mediante las hojas de cálculo de Office Excel, arrojando la Curva de Tendencia y luego habilitando en la configuración del gráfico la ecuación de la misma, posteriormente **se descarta la primera gráfica creada y se construye una nueva con las ecuaciones de la Curva de Tendencia**. De igual forma se recomienda sobre el método anterior, emplear un método alternativo que involucra realizar manualmente el ajuste por Mínimos Cuadrados empleando algún Lenguaje de Programación y luego graficar con el mismo; para esto revisar el archivo **“Mínimos Cuadrados - Repaso de Cálculo Numérico”** donde se profundiza acerca de este método. Lenguaje de programación recomendado: *Python* y la librería *Matplotlib* para graficar.
 
 ## Practica #1 - Representación Gráfica de las Turbomáquinas
-
-**Fecha de Entrega:** 22.05.23
 
 **Objetivo:** *Realizar las tres representaciones graficas de un Rodete de una Bomba Centrifuga.*
 
@@ -25,8 +15,6 @@ Las Curvas Características deben ser ajustadas empleando Mínimos Cuadrados, es
 [Guía Teórica Practica 1](https://drive.google.com/file/d/1TpzPuNDRKMo4Mx3l-AJwjIqI4Rrk1fSZ/view?usp=share_link)
 
 ## Practica #2 - Curvas Características de una Bomba Centrifuga
-
-**Fecha de Entrega:** 15.07.23
 
 **Objetivo:** *Realizar las curvas características de una Bomba Centrifuga.*
 
@@ -48,8 +36,6 @@ Próximamente...
 
 ## Practica #4 - Curvas Características de una Turbina Francis
 
-**Fecha de Entrega:** 15.07.23
-
 **Objetivo:** *Realizar las curvas características de una Turbina Francis.*
 
 **Instrucciones:** El archivo *“Guía Teórica Practica 4”* contiene los fundamentos teóricos redactados por el Prof. Quevedo. Tiene tanto contenido que se recomienda consultar para llevar a cabo la práctica como contenido que fue omitido pero puede ser de gran interés para su formación. Por otro lado, en el archivo **“Data Turbina Francis”** se encuentran los datos numéricos requeridos para construir las curvas características. El **Diámetro Periférico del Rodete del Prototipo del Laboratorio** es D=153 mm. Se realizarán entonces las siguientes actividades:
@@ -70,5 +56,14 @@ Próximamente...
 
 Próximamente...
 
+## Archivos Extras
+
+[Formato para entrega de Práctica 1](https://docs.google.com/document/d/1gYhGz9Jz_o9-L_e6d9gUFL4t-jTdRnFC/edit?usp=share_link&ouid=100810407302287541575&rtpof=true&sd=true)
+
+[Formato para entrega de Prácticas 2-5](https://docs.google.com/document/d/1jEqshva6qELq1Xc7y1YFCQRg_fc9dqMl/edit?usp=share_link&ouid=100810407302287541575&rtpof=true&sd=true)
+
+[Mínimos Cuadrados - Repaso de Cálculo Numérico](https://drive.google.com/file/d/1E1CEZWLh7dYcm_lLeVU9o2O0N-eZ1-ME/view?usp=share_link)
+
+[Archivos Extras](https://drive.google.com/drive/folders/1kz5qI-tdfK0cHVobLhg5kI7c7FVQ_iZR?usp=share_link)
 
 
