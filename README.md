@@ -6,7 +6,7 @@
 
 # Laboratorio de Turbomáquinas
 
-`Ultima Actualización: 20.11.23`
+`Ultima Actualización: 02.06.24`
 
 **Aux. Doc.** Jairo Rondón
 
