@@ -1,6 +1,6 @@
 # Laboratorio de Turbomáquinas
 
-[Calificaciones Semestre 2023-3](https://docs.google.com/spreadsheets/d/1ZyOFwT_QZ7OxS-TdFG1Fh1bo5W3J1qvkMtkczg6BnmA/edit?usp=sharing)
+[Calificaciones Semestre 2024-1](https://docs.google.com/spreadsheets/d/1JmmV4TLjMK9R-fxhZYqtL3SC2sTr8Yrz1LDA-vb6q4s/edit?usp=sharing)
 
 ## Generalidades
 
