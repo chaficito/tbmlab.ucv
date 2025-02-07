@@ -1,6 +1,6 @@
 # Laboratorio de Turbomáquinas
 
-[Calificaciones Semestre 2024-1](https://docs.google.com/spreadsheets/d/1JmmV4TLjMK9R-fxhZYqtL3SC2sTr8Yrz1LDA-vb6q4s/edit?usp=sharing)
+[Calificaciones Semestre 2024-3](https://docs.google.com/spreadsheets/d/1bxN8l-3GBgK2UZtghjA8gXDIR48xbUiXlCR-IkAzcww/edit?usp=sharing)
 
 ## Generalidades
 
